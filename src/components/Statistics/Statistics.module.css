@@ -1,0 +1,6 @@
+.list {
+  width: 100%;
+  padding: 10px;
+  background-color: var(--text-color);
+  box-shadow: 4px 3px 12px -1px var(--accent-color);
+}

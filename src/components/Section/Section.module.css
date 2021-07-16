@@ -1,0 +1,11 @@
+.section {
+  width: 500px;
+  text-align: center;
+}
+
+.title {
+  text-transform: uppercase;
+  padding-bottom: 15px;
+  text-shadow: 0px 1px 1px var(--accent-color), 0 0 1px var(--accent-color),
+    0 0 0.2em var(--accent-color);
+}
